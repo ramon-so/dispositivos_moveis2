@@ -24,7 +24,7 @@ main(){
     "maria": 10.0,
     "jose": 11.0,
   };
-  print(alunos);
+  print(alunos["maria"]);
   print("--------------------------------------");
   var alunos2 = {
     "maria": 10.0,
